@@ -1,0 +1,7 @@
+
+server.servlet.context-path=/apis/codigo
+#spring.datasource.url=jdbc:postgresql://localhost:5432/bdsecurityg8
+#spring.datasource.username=postgres
+#spring.datasource.password=lospeores
+spring.jpa.hibernate.ddl-auto=update
+logging.level.root=info
